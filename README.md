@@ -38,7 +38,8 @@ pip install -r requirements.txt
 
 ## Project Structure
 - bonus_emitter.py: Reads data from avian-influenza-dwg.csv and sends specific columns to different queues.
-- - The following code was added to ensure messages are sent by column to consumers:
+
+The following code was added to ensure messages are sent by column to consumers:
 ```bash
 def main():
     offer_rabbitmq_admin_site(SHOW_OFFER)
@@ -98,7 +99,8 @@ def main(host=HOST, queue_name=QUEUE_NAME):
 
 if __name__ == "__main__":
     main()
-    ```
+```
+       
 ## Running the Project
 1. Start RabbitMQ server.
 2. Run emitter script:
