@@ -115,9 +115,11 @@ python bonus_consumer3.py
 ```
 4. To stop either emitter or consumer scripts from streaming, use ctrl+c in the command prompt to stop the process.
 
+5.  Review generated CSV files (there should be three) for accuracy - did each file only record their respective column of data and transform that data? 
+
 ## Screenshot of Project Terminals Executing
 
-![Project Execution](images/BonusProject2024-05-24-183049.png)
+![Project Execution](images/BonusProject2024-05-24%20183049.png)
 
 ## References 
 
