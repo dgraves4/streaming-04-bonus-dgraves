@@ -1,0 +1,42 @@
+2024-05-24 18:14:15,219.bonus_listening_worker_q2.INFO ==================================================
+2024-05-24 18:14:15,219.bonus_listening_worker_q2.INFO Today is 2024-05-24 at 06:14 PM
+2024-05-24 18:14:15,220.bonus_listening_worker_q2.INFO Running on: nt Windows 11
+2024-05-24 18:14:15,220.bonus_listening_worker_q2.INFO Python version:  3.12.2
+2024-05-24 18:14:15,220.bonus_listening_worker_q2.INFO Python path: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves\.venv
+2024-05-24 18:14:15,220.bonus_listening_worker_q2.INFO Working dir: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves
+2024-05-24 18:14:15,221.bonus_listening_worker_q2.INFO ==================================================
+2024-05-24 18:14:15,234.bonus_listening_worker_q2.INFO Ready for work. To exit press CTRL+C
+2024-05-24 18:14:42,335.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN REED WARBLER
+2024-05-24 18:14:43,353.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN REED WARBLER
+2024-05-24 18:14:44,372.bonus_listening_worker_q2.INFO Processed Common Name: HUDSONIAN GODWIT
+2024-05-24 18:14:45,392.bonus_listening_worker_q2.INFO Processed Common Name: HUDSONIAN GODWIT
+2024-05-24 18:14:46,412.bonus_listening_worker_q2.INFO Processed Common Name: HUDSONIAN GODWIT
+2024-05-24 18:14:47,432.bonus_listening_worker_q2.INFO Processed Common Name: SPOTTED FLYCATCHER
+2024-05-24 18:14:48,451.bonus_listening_worker_q2.INFO Processed Common Name: MEW GULL
+2024-05-24 18:14:49,471.bonus_listening_worker_q2.INFO Processed Common Name: ROOK
+2024-05-24 18:14:50,492.bonus_listening_worker_q2.INFO Processed Common Name: HERRING GULL
+2024-05-24 18:14:51,510.bonus_listening_worker_q2.INFO Processed Common Name: ROOK
+2024-05-24 18:14:52,530.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN JACKDAW
+2024-05-24 18:14:53,552.bonus_listening_worker_q2.INFO Processed Common Name: EUROPEAN ROBIN
+2024-05-24 18:14:54,577.bonus_listening_worker_q2.INFO Processed Common Name: GRAY HERON
+2024-05-24 18:14:55,597.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN JACKDAW
+2024-05-24 18:14:56,619.bonus_listening_worker_q2.INFO Processed Common Name: MUTE SWAN
+2024-05-24 18:14:57,640.bonus_listening_worker_q2.INFO Processed Common Name: GRAY HERON
+2024-05-24 18:14:58,663.bonus_listening_worker_q2.INFO Processed Common Name: MUTE SWAN
+2024-05-24 18:14:59,680.bonus_listening_worker_q2.INFO Processed Common Name: RAZORBILL
+2024-05-24 18:15:00,701.bonus_listening_worker_q2.INFO Processed Common Name: GRAY WAGTAIL
+2024-05-24 18:15:01,720.bonus_listening_worker_q2.INFO Processed Common Name: WHITE WAGTAIL
+2024-05-24 18:15:02,739.bonus_listening_worker_q2.INFO Processed Common Name: EUROPEAN ROBIN
+2024-05-24 18:15:03,760.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN JACKDAW
+2024-05-24 18:15:04,781.bonus_listening_worker_q2.INFO Processed Common Name: COMMON TERN
+2024-05-24 18:15:05,799.bonus_listening_worker_q2.INFO Processed Common Name: COMMON TERN
+2024-05-24 18:15:06,820.bonus_listening_worker_q2.INFO Processed Common Name: BLACK-HEADED GULL
+2024-05-24 18:15:07,837.bonus_listening_worker_q2.INFO Processed Common Name: EUROPEAN ROBIN
+2024-05-24 18:15:08,856.bonus_listening_worker_q2.INFO Processed Common Name: GOLDCREST
+2024-05-24 18:15:09,876.bonus_listening_worker_q2.INFO Processed Common Name: RING-NECKED PHEASANT
+2024-05-24 18:15:10,895.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN COLLARED-DOVE
+2024-05-24 18:15:11,912.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN JACKDAW
+2024-05-24 18:15:12,933.bonus_listening_worker_q2.INFO Processed Common Name: SPOTTED FLYCATCHER
+2024-05-24 18:15:13,954.bonus_listening_worker_q2.INFO Processed Common Name: EURASIAN WREN
+2024-05-24 18:15:14,976.bonus_listening_worker_q2.INFO User interrupted continuous listening process.
+2024-05-24 18:15:14,976.bonus_listening_worker_q2.INFO Closing connection. Goodbye.

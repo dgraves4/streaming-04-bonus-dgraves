@@ -1,0 +1,124 @@
+2024-05-24 18:14:42,312.bonus_emitter_of_tasks.INFO ==================================================
+2024-05-24 18:14:42,312.bonus_emitter_of_tasks.INFO Today is 2024-05-24 at 06:14 PM
+2024-05-24 18:14:42,312.bonus_emitter_of_tasks.INFO Running on: nt Windows 11
+2024-05-24 18:14:42,312.bonus_emitter_of_tasks.INFO Python version:  3.12.2
+2024-05-24 18:14:42,313.bonus_emitter_of_tasks.INFO Python path: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves\.venv
+2024-05-24 18:14:42,313.bonus_emitter_of_tasks.INFO Working dir: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves
+2024-05-24 18:14:42,313.bonus_emitter_of_tasks.INFO ==================================================
+2024-05-24 18:14:42,325.bonus_emitter_of_tasks.INFO Sent Acrocephalus scirpaceus to scientific_name_queue
+2024-05-24 18:14:42,332.bonus_emitter_of_tasks.INFO Sent Eurasian Reed Warbler to common_name_queue
+2024-05-24 18:14:42,339.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:43,346.bonus_emitter_of_tasks.INFO Sent Acrocephalus scirpaceus to scientific_name_queue
+2024-05-24 18:14:43,353.bonus_emitter_of_tasks.INFO Sent Eurasian Reed Warbler to common_name_queue
+2024-05-24 18:14:43,359.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:44,365.bonus_emitter_of_tasks.INFO Sent Limosa haemastica to scientific_name_queue
+2024-05-24 18:14:44,372.bonus_emitter_of_tasks.INFO Sent Hudsonian Godwit to common_name_queue
+2024-05-24 18:14:44,379.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:45,386.bonus_emitter_of_tasks.INFO Sent Limosa haemastica to scientific_name_queue
+2024-05-24 18:14:45,392.bonus_emitter_of_tasks.INFO Sent Hudsonian Godwit to common_name_queue
+2024-05-24 18:14:45,397.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:46,404.bonus_emitter_of_tasks.INFO Sent Limosa haemastica to scientific_name_queue
+2024-05-24 18:14:46,412.bonus_emitter_of_tasks.INFO Sent Hudsonian Godwit to common_name_queue
+2024-05-24 18:14:46,417.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:47,424.bonus_emitter_of_tasks.INFO Sent Muscicapa striata to scientific_name_queue
+2024-05-24 18:14:47,431.bonus_emitter_of_tasks.INFO Sent Spotted Flycatcher to common_name_queue
+2024-05-24 18:14:47,437.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:48,445.bonus_emitter_of_tasks.INFO Sent Larus canus to scientific_name_queue
+2024-05-24 18:14:48,451.bonus_emitter_of_tasks.INFO Sent Mew Gull to common_name_queue
+2024-05-24 18:14:48,457.bonus_emitter_of_tasks.INFO Sent 1 to target_h5_hpai_queue
+2024-05-24 18:14:49,464.bonus_emitter_of_tasks.INFO Sent Corvus frugilegus to scientific_name_queue
+2024-05-24 18:14:49,470.bonus_emitter_of_tasks.INFO Sent Rook to common_name_queue
+2024-05-24 18:14:49,477.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:50,485.bonus_emitter_of_tasks.INFO Sent Larus argentatus to scientific_name_queue
+2024-05-24 18:14:50,491.bonus_emitter_of_tasks.INFO Sent Herring Gull to common_name_queue
+2024-05-24 18:14:50,497.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:51,503.bonus_emitter_of_tasks.INFO Sent Corvus frugilegus to scientific_name_queue
+2024-05-24 18:14:51,509.bonus_emitter_of_tasks.INFO Sent Rook to common_name_queue
+2024-05-24 18:14:51,516.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:52,523.bonus_emitter_of_tasks.INFO Sent Corvus monedula to scientific_name_queue
+2024-05-24 18:14:52,530.bonus_emitter_of_tasks.INFO Sent Eurasian Jackdaw to common_name_queue
+2024-05-24 18:14:52,536.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:53,543.bonus_emitter_of_tasks.INFO Sent Erithacus rubecula to scientific_name_queue
+2024-05-24 18:14:53,551.bonus_emitter_of_tasks.INFO Sent European Robin to common_name_queue
+2024-05-24 18:14:53,560.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:54,567.bonus_emitter_of_tasks.INFO Sent Ardea cinerea to scientific_name_queue
+2024-05-24 18:14:54,576.bonus_emitter_of_tasks.INFO Sent Gray Heron to common_name_queue
+2024-05-24 18:14:54,582.bonus_emitter_of_tasks.INFO Sent 1 to target_h5_hpai_queue
+2024-05-24 18:14:55,589.bonus_emitter_of_tasks.INFO Sent Corvus monedula to scientific_name_queue
+2024-05-24 18:14:55,597.bonus_emitter_of_tasks.INFO Sent Eurasian Jackdaw to common_name_queue
+2024-05-24 18:14:55,605.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:14:56,612.bonus_emitter_of_tasks.INFO Sent Cygnus olor to scientific_name_queue
+2024-05-24 18:14:56,618.bonus_emitter_of_tasks.INFO Sent Mute Swan to common_name_queue
+2024-05-24 18:14:56,625.bonus_emitter_of_tasks.INFO Sent 1 to target_h5_hpai_queue
+2024-05-24 18:14:57,633.bonus_emitter_of_tasks.INFO Sent Ardea cinerea to scientific_name_queue
+2024-05-24 18:14:57,640.bonus_emitter_of_tasks.INFO Sent Gray Heron to common_name_queue
+2024-05-24 18:14:57,647.bonus_emitter_of_tasks.INFO Sent 1 to target_h5_hpai_queue
+2024-05-24 18:14:58,655.bonus_emitter_of_tasks.INFO Sent Cygnus olor to scientific_name_queue
+2024-05-24 18:14:58,662.bonus_emitter_of_tasks.INFO Sent Mute Swan to common_name_queue
+2024-05-24 18:14:58,667.bonus_emitter_of_tasks.INFO Sent 1 to target_h5_hpai_queue
+2024-05-24 18:14:59,675.bonus_emitter_of_tasks.INFO Sent Alca torda to scientific_name_queue
+2024-05-24 18:14:59,680.bonus_emitter_of_tasks.INFO Sent Razorbill to common_name_queue
+2024-05-24 18:14:59,686.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:00,693.bonus_emitter_of_tasks.INFO Sent Motacilla cinerea to scientific_name_queue
+2024-05-24 18:15:00,700.bonus_emitter_of_tasks.INFO Sent Gray Wagtail to common_name_queue
+2024-05-24 18:15:00,707.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:01,714.bonus_emitter_of_tasks.INFO Sent Motacilla alba to scientific_name_queue
+2024-05-24 18:15:01,720.bonus_emitter_of_tasks.INFO Sent White Wagtail to common_name_queue
+2024-05-24 18:15:01,725.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:02,732.bonus_emitter_of_tasks.INFO Sent Erithacus rubecula to scientific_name_queue
+2024-05-24 18:15:02,739.bonus_emitter_of_tasks.INFO Sent European Robin to common_name_queue
+2024-05-24 18:15:02,746.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:03,753.bonus_emitter_of_tasks.INFO Sent Corvus monedula to scientific_name_queue
+2024-05-24 18:15:03,760.bonus_emitter_of_tasks.INFO Sent Eurasian Jackdaw to common_name_queue
+2024-05-24 18:15:03,767.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:04,774.bonus_emitter_of_tasks.INFO Sent Sterna hirundo to scientific_name_queue
+2024-05-24 18:15:04,781.bonus_emitter_of_tasks.INFO Sent Common Tern to common_name_queue
+2024-05-24 18:15:04,786.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:05,792.bonus_emitter_of_tasks.INFO Sent Sterna hirundo to scientific_name_queue
+2024-05-24 18:15:05,799.bonus_emitter_of_tasks.INFO Sent Common Tern to common_name_queue
+2024-05-24 18:15:05,805.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:06,812.bonus_emitter_of_tasks.INFO Sent Chroicocephalus ridibundus to scientific_name_queue
+2024-05-24 18:15:06,819.bonus_emitter_of_tasks.INFO Sent Black-headed Gull to common_name_queue
+2024-05-24 18:15:06,825.bonus_emitter_of_tasks.INFO Sent 1 to target_h5_hpai_queue
+2024-05-24 18:15:07,832.bonus_emitter_of_tasks.INFO Sent Erithacus rubecula to scientific_name_queue
+2024-05-24 18:15:07,837.bonus_emitter_of_tasks.INFO Sent European Robin to common_name_queue
+2024-05-24 18:15:07,843.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:08,849.bonus_emitter_of_tasks.INFO Sent Regulus regulus to scientific_name_queue
+2024-05-24 18:15:08,856.bonus_emitter_of_tasks.INFO Sent Goldcrest to common_name_queue
+2024-05-24 18:15:08,862.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:09,869.bonus_emitter_of_tasks.INFO Sent Phasianus colchicus to scientific_name_queue
+2024-05-24 18:15:09,875.bonus_emitter_of_tasks.INFO Sent Ring-necked Pheasant to common_name_queue
+2024-05-24 18:15:09,882.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:10,889.bonus_emitter_of_tasks.INFO Sent Streptopelia decaocto to scientific_name_queue
+2024-05-24 18:15:10,894.bonus_emitter_of_tasks.INFO Sent Eurasian Collared-Dove to common_name_queue
+2024-05-24 18:15:10,900.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:11,906.bonus_emitter_of_tasks.INFO Sent Corvus monedula to scientific_name_queue
+2024-05-24 18:15:11,911.bonus_emitter_of_tasks.INFO Sent Eurasian Jackdaw to common_name_queue
+2024-05-24 18:15:11,918.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:12,925.bonus_emitter_of_tasks.INFO Sent Muscicapa striata to scientific_name_queue
+2024-05-24 18:15:12,932.bonus_emitter_of_tasks.INFO Sent Spotted Flycatcher to common_name_queue
+2024-05-24 18:15:12,941.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:13,948.bonus_emitter_of_tasks.INFO Sent Troglodytes troglodytes to scientific_name_queue
+2024-05-24 18:15:13,954.bonus_emitter_of_tasks.INFO Sent Eurasian Wren to common_name_queue
+2024-05-24 18:15:13,961.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:14,968.bonus_emitter_of_tasks.INFO Sent Troglodytes troglodytes to scientific_name_queue
+2024-05-24 18:15:14,975.bonus_emitter_of_tasks.INFO Sent Eurasian Wren to common_name_queue
+2024-05-24 18:15:14,983.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:15,990.bonus_emitter_of_tasks.INFO Sent Muscicapa striata to scientific_name_queue
+2024-05-24 18:15:15,996.bonus_emitter_of_tasks.INFO Sent Spotted Flycatcher to common_name_queue
+2024-05-24 18:15:16,002.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:17,010.bonus_emitter_of_tasks.INFO Sent Phasianus colchicus to scientific_name_queue
+2024-05-24 18:15:17,017.bonus_emitter_of_tasks.INFO Sent Ring-necked Pheasant to common_name_queue
+2024-05-24 18:15:17,024.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:18,029.bonus_emitter_of_tasks.INFO Sent Fringilla coelebs to scientific_name_queue
+2024-05-24 18:15:18,035.bonus_emitter_of_tasks.INFO Sent Common Chaffinch to common_name_queue
+2024-05-24 18:15:18,041.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:19,049.bonus_emitter_of_tasks.INFO Sent Fringilla coelebs to scientific_name_queue
+2024-05-24 18:15:19,056.bonus_emitter_of_tasks.INFO Sent Common Chaffinch to common_name_queue
+2024-05-24 18:15:19,062.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:20,069.bonus_emitter_of_tasks.INFO Sent Columba palumbus to scientific_name_queue
+2024-05-24 18:15:20,075.bonus_emitter_of_tasks.INFO Sent Common Wood-Pigeon to common_name_queue
+2024-05-24 18:15:20,079.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
+2024-05-24 18:15:21,086.bonus_emitter_of_tasks.INFO Sent Corvus frugilegus to scientific_name_queue
+2024-05-24 18:15:21,092.bonus_emitter_of_tasks.INFO Sent Rook to common_name_queue
+2024-05-24 18:15:21,096.bonus_emitter_of_tasks.INFO Sent 0 to target_h5_hpai_queue
