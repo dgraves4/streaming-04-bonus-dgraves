@@ -1,12 +1,13 @@
 """
 This program listens for messages from the target_h5_hpai_queue and processes them.
-Transforms the target_H5_HPAI to a readable format.
+Transforms the target_H5_HPAI to a readable format and writes to a new CSV file.
 
 Author: Derek Graves
 Date: May 24, 2024
 """
 
 import pika
+import csv
 import sys
 import time
 from util_logger import setup_logger
@@ -17,12 +18,19 @@ logger, logname = setup_logger(__file__)
 # Configuration variables
 HOST = "localhost"
 QUEUE_NAME = "target_h5_hpai_queue"
+OUTPUT_FILE = "processed_target_h5_hpai.csv"
 
 def callback(ch, method, properties, body):
     """Define behavior on getting a message."""
     target_h5_hpai = body.decode()
     readable_format = f"Target H5 HPAI: {target_h5_hpai}"
     logger.info(f"Processed Target H5 HPAI: {readable_format}")
+
+    # Write the original and transformed data to a CSV file
+    with open(OUTPUT_FILE, 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow([target_h5_hpai, readable_format])
+
     ch.basic_ack(delivery_tag=method.delivery_tag)
 
 def main(host: str = HOST, queue_name: str = QUEUE_NAME):
@@ -52,6 +60,7 @@ def main(host: str = HOST, queue_name: str = QUEUE_NAME):
 
 if __name__ == "__main__":
     main()
+
 
 
 

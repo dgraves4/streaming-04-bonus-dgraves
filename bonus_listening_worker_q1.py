@@ -1,12 +1,13 @@
 """
 This program listens for messages from the scientific_name_queue and processes them.
-Transforms the Scientific_Name to uppercase.
+Transforms the Scientific_Name to uppercase and writes to a new CSV file.
 
 Author: Derek Graves
 Date: May 24, 2024
 """
 
 import pika
+import csv
 import sys
 import time
 from util_logger import setup_logger
@@ -17,11 +18,19 @@ logger, logname = setup_logger(__file__)
 # Configuration variables
 HOST = "localhost"
 QUEUE_NAME = "scientific_name_queue"
+OUTPUT_FILE = "processed_scientific_names.csv"
 
 def callback(ch, method, properties, body):
     """Define behavior on getting a message."""
-    scientific_name = body.decode().upper()
-    logger.info(f"Processed Scientific Name: {scientific_name}")
+    scientific_name = body.decode()
+    transformed_name = scientific_name.upper()
+    logger.info(f"Processed Scientific Name: {transformed_name}")
+
+    # Write the original and transformed data to a CSV file
+    with open(OUTPUT_FILE, 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow([scientific_name, transformed_name])
+
     ch.basic_ack(delivery_tag=method.delivery_tag)
 
 def main(host: str = HOST, queue_name: str = QUEUE_NAME):
@@ -51,6 +60,7 @@ def main(host: str = HOST, queue_name: str = QUEUE_NAME):
 
 if __name__ == "__main__":
     main()
+
 
 
 
