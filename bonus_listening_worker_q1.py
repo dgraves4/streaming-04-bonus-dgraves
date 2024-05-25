@@ -1,6 +1,6 @@
 """
-This program listens for messages from the common_name_queue and processes them.
-Transforms the Common_Name to uppercase.
+This program listens for messages from the scientific_name_queue and processes them.
+Transforms the Scientific_Name to uppercase.
 
 Author: Derek Graves
 Date: May 24, 2024
@@ -16,12 +16,12 @@ logger, logname = setup_logger(__file__)
 
 # Configuration variables
 HOST = "localhost"
-QUEUE_NAME = "common_name_queue"
+QUEUE_NAME = "scientific_name_queue"
 
 def callback(ch, method, properties, body):
     """Define behavior on getting a message."""
-    common_name = body.decode().upper()
-    logger.info(f"Processed Common Name: {common_name}")
+    scientific_name = body.decode().upper()
+    logger.info(f"Processed Scientific Name: {scientific_name}")
     ch.basic_ack(delivery_tag=method.delivery_tag)
 
 def main(host: str = HOST, queue_name: str = QUEUE_NAME):
