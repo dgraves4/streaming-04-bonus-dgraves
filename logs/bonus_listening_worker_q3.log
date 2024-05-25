@@ -1,44 +1,48 @@
-2024-05-24 18:14:30,963.bonus_listening_worker_q3.INFO ==================================================
-2024-05-24 18:14:30,963.bonus_listening_worker_q3.INFO Today is 2024-05-24 at 06:14 PM
-2024-05-24 18:14:30,964.bonus_listening_worker_q3.INFO Running on: nt Windows 11
-2024-05-24 18:14:30,964.bonus_listening_worker_q3.INFO Python version:  3.12.2
-2024-05-24 18:14:30,964.bonus_listening_worker_q3.INFO Python path: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves\.venv
-2024-05-24 18:14:30,964.bonus_listening_worker_q3.INFO Working dir: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves
-2024-05-24 18:14:30,964.bonus_listening_worker_q3.INFO ==================================================
-2024-05-24 18:14:30,977.bonus_listening_worker_q3.INFO Ready for work. To exit press CTRL+C
-2024-05-24 18:14:42,342.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:43,359.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:44,379.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:45,398.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:46,418.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:47,438.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:48,457.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
-2024-05-24 18:14:49,477.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:50,497.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:51,516.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:52,536.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:53,560.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:54,582.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
-2024-05-24 18:14:55,605.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:14:56,625.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
-2024-05-24 18:14:57,647.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
-2024-05-24 18:14:58,667.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
-2024-05-24 18:14:59,686.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:00,708.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:01,725.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:02,746.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:03,767.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:04,786.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:05,805.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:06,825.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
-2024-05-24 18:15:07,843.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:08,862.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:09,882.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:10,900.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:11,918.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:12,942.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:13,962.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:14,984.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:16,003.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
-2024-05-24 18:15:17,024.bonus_listening_worker_q3.INFO User interrupted continuous listening process.
-2024-05-24 18:15:17,024.bonus_listening_worker_q3.INFO Closing connection. Goodbye.
+2024-05-24 18:22:58,194.bonus_listening_worker_q3.INFO ==================================================
+2024-05-24 18:22:58,194.bonus_listening_worker_q3.INFO Today is 2024-05-24 at 06:22 PM
+2024-05-24 18:22:58,194.bonus_listening_worker_q3.INFO Running on: nt Windows 11
+2024-05-24 18:22:58,195.bonus_listening_worker_q3.INFO Python version:  3.12.2
+2024-05-24 18:22:58,195.bonus_listening_worker_q3.INFO Python path: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves\.venv
+2024-05-24 18:22:58,195.bonus_listening_worker_q3.INFO Working dir: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves
+2024-05-24 18:22:58,195.bonus_listening_worker_q3.INFO ==================================================
+2024-05-24 18:22:58,216.bonus_listening_worker_q3.INFO Ready for work. To exit press CTRL+C
+2024-05-24 18:23:11,014.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:12,033.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:13,050.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:14,071.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:15,090.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:16,109.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:17,130.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
+2024-05-24 18:23:18,151.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:19,171.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:20,190.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:21,213.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:22,234.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:23,259.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
+2024-05-24 18:23:24,284.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:25,305.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
+2024-05-24 18:23:26,326.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
+2024-05-24 18:23:27,347.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
+2024-05-24 18:23:28,369.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:29,391.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:30,414.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:31,435.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:32,454.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:33,476.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:34,497.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:35,519.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 1
+2024-05-24 18:23:36,545.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:37,565.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:38,588.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:39,611.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:40,632.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:41,654.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:42,678.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:43,699.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:44,737.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:45,758.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:46,781.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:47,803.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:23:48,825.bonus_listening_worker_q3.INFO Processed Target H5 HPAI: Target H5 HPAI: 0
+2024-05-24 18:24:03,208.bonus_listening_worker_q3.INFO User interrupted continuous listening process.
+2024-05-24 18:24:03,208.bonus_listening_worker_q3.INFO Closing connection. Goodbye.

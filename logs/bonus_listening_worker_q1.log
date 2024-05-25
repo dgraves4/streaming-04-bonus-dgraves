@@ -1,40 +1,48 @@
-2024-05-24 18:14:05,212.bonus_listening_worker_q1.INFO ==================================================
-2024-05-24 18:14:05,213.bonus_listening_worker_q1.INFO Today is 2024-05-24 at 06:14 PM
-2024-05-24 18:14:05,213.bonus_listening_worker_q1.INFO Running on: nt Windows 11
-2024-05-24 18:14:05,213.bonus_listening_worker_q1.INFO Python version:  3.12.2
-2024-05-24 18:14:05,213.bonus_listening_worker_q1.INFO Python path: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves\.venv
-2024-05-24 18:14:05,214.bonus_listening_worker_q1.INFO Working dir: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves
-2024-05-24 18:14:05,215.bonus_listening_worker_q1.INFO ==================================================
-2024-05-24 18:14:05,230.bonus_listening_worker_q1.INFO Ready for work. To exit press CTRL+C
-2024-05-24 18:14:42,327.bonus_listening_worker_q1.INFO Processed Scientific Name: ACROCEPHALUS SCIRPACEUS
-2024-05-24 18:14:43,347.bonus_listening_worker_q1.INFO Processed Scientific Name: ACROCEPHALUS SCIRPACEUS
-2024-05-24 18:14:44,366.bonus_listening_worker_q1.INFO Processed Scientific Name: LIMOSA HAEMASTICA
-2024-05-24 18:14:45,387.bonus_listening_worker_q1.INFO Processed Scientific Name: LIMOSA HAEMASTICA
-2024-05-24 18:14:46,405.bonus_listening_worker_q1.INFO Processed Scientific Name: LIMOSA HAEMASTICA
-2024-05-24 18:14:47,424.bonus_listening_worker_q1.INFO Processed Scientific Name: MUSCICAPA STRIATA
-2024-05-24 18:14:48,445.bonus_listening_worker_q1.INFO Processed Scientific Name: LARUS CANUS
-2024-05-24 18:14:49,464.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS FRUGILEGUS
-2024-05-24 18:14:50,485.bonus_listening_worker_q1.INFO Processed Scientific Name: LARUS ARGENTATUS
-2024-05-24 18:14:51,503.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS FRUGILEGUS
-2024-05-24 18:14:52,523.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
-2024-05-24 18:14:53,544.bonus_listening_worker_q1.INFO Processed Scientific Name: ERITHACUS RUBECULA
-2024-05-24 18:14:54,568.bonus_listening_worker_q1.INFO Processed Scientific Name: ARDEA CINEREA
-2024-05-24 18:14:55,589.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
-2024-05-24 18:14:56,612.bonus_listening_worker_q1.INFO Processed Scientific Name: CYGNUS OLOR
-2024-05-24 18:14:57,633.bonus_listening_worker_q1.INFO Processed Scientific Name: ARDEA CINEREA
-2024-05-24 18:14:58,655.bonus_listening_worker_q1.INFO Processed Scientific Name: CYGNUS OLOR
-2024-05-24 18:14:59,676.bonus_listening_worker_q1.INFO Processed Scientific Name: ALCA TORDA
-2024-05-24 18:15:00,694.bonus_listening_worker_q1.INFO Processed Scientific Name: MOTACILLA CINEREA
-2024-05-24 18:15:01,714.bonus_listening_worker_q1.INFO Processed Scientific Name: MOTACILLA ALBA
-2024-05-24 18:15:02,733.bonus_listening_worker_q1.INFO Processed Scientific Name: ERITHACUS RUBECULA
-2024-05-24 18:15:03,753.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
-2024-05-24 18:15:04,775.bonus_listening_worker_q1.INFO Processed Scientific Name: STERNA HIRUNDO
-2024-05-24 18:15:05,793.bonus_listening_worker_q1.INFO Processed Scientific Name: STERNA HIRUNDO
-2024-05-24 18:15:06,812.bonus_listening_worker_q1.INFO Processed Scientific Name: CHROICOCEPHALUS RIDIBUNDUS
-2024-05-24 18:15:07,832.bonus_listening_worker_q1.INFO Processed Scientific Name: ERITHACUS RUBECULA
-2024-05-24 18:15:08,850.bonus_listening_worker_q1.INFO Processed Scientific Name: REGULUS REGULUS
-2024-05-24 18:15:09,870.bonus_listening_worker_q1.INFO Processed Scientific Name: PHASIANUS COLCHICUS
-2024-05-24 18:15:10,889.bonus_listening_worker_q1.INFO Processed Scientific Name: STREPTOPELIA DECAOCTO
-2024-05-24 18:15:11,907.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
-2024-05-24 18:15:12,925.bonus_listening_worker_q1.INFO User interrupted continuous listening process.
-2024-05-24 18:15:12,925.bonus_listening_worker_q1.INFO Closing connection. Goodbye.
+2024-05-24 18:22:13,058.bonus_listening_worker_q1.INFO ==================================================
+2024-05-24 18:22:13,059.bonus_listening_worker_q1.INFO Today is 2024-05-24 at 06:22 PM
+2024-05-24 18:22:13,059.bonus_listening_worker_q1.INFO Running on: nt Windows 11
+2024-05-24 18:22:13,059.bonus_listening_worker_q1.INFO Python version:  3.12.2
+2024-05-24 18:22:13,060.bonus_listening_worker_q1.INFO Python path: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves\.venv
+2024-05-24 18:22:13,060.bonus_listening_worker_q1.INFO Working dir: C:\Users\derek\OneDrive\Documents\Streaming Data\Week 4\streaming-04-bonus-dgraves
+2024-05-24 18:22:13,060.bonus_listening_worker_q1.INFO ==================================================
+2024-05-24 18:22:13,073.bonus_listening_worker_q1.INFO Ready for work. To exit press CTRL+C
+2024-05-24 18:23:10,999.bonus_listening_worker_q1.INFO Processed Scientific Name: ACROCEPHALUS SCIRPACEUS
+2024-05-24 18:23:12,021.bonus_listening_worker_q1.INFO Processed Scientific Name: ACROCEPHALUS SCIRPACEUS
+2024-05-24 18:23:13,039.bonus_listening_worker_q1.INFO Processed Scientific Name: LIMOSA HAEMASTICA
+2024-05-24 18:23:14,060.bonus_listening_worker_q1.INFO Processed Scientific Name: LIMOSA HAEMASTICA
+2024-05-24 18:23:15,077.bonus_listening_worker_q1.INFO Processed Scientific Name: LIMOSA HAEMASTICA
+2024-05-24 18:23:16,096.bonus_listening_worker_q1.INFO Processed Scientific Name: MUSCICAPA STRIATA
+2024-05-24 18:23:17,116.bonus_listening_worker_q1.INFO Processed Scientific Name: LARUS CANUS
+2024-05-24 18:23:18,138.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS FRUGILEGUS
+2024-05-24 18:23:19,157.bonus_listening_worker_q1.INFO Processed Scientific Name: LARUS ARGENTATUS
+2024-05-24 18:23:20,178.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS FRUGILEGUS
+2024-05-24 18:23:21,198.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
+2024-05-24 18:23:22,220.bonus_listening_worker_q1.INFO Processed Scientific Name: ERITHACUS RUBECULA
+2024-05-24 18:23:23,245.bonus_listening_worker_q1.INFO Processed Scientific Name: ARDEA CINEREA
+2024-05-24 18:23:24,268.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
+2024-05-24 18:23:25,292.bonus_listening_worker_q1.INFO Processed Scientific Name: CYGNUS OLOR
+2024-05-24 18:23:26,313.bonus_listening_worker_q1.INFO Processed Scientific Name: ARDEA CINEREA
+2024-05-24 18:23:27,332.bonus_listening_worker_q1.INFO Processed Scientific Name: CYGNUS OLOR
+2024-05-24 18:23:28,355.bonus_listening_worker_q1.INFO Processed Scientific Name: ALCA TORDA
+2024-05-24 18:23:29,376.bonus_listening_worker_q1.INFO Processed Scientific Name: MOTACILLA CINEREA
+2024-05-24 18:23:30,400.bonus_listening_worker_q1.INFO Processed Scientific Name: MOTACILLA ALBA
+2024-05-24 18:23:31,421.bonus_listening_worker_q1.INFO Processed Scientific Name: ERITHACUS RUBECULA
+2024-05-24 18:23:32,441.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
+2024-05-24 18:23:33,462.bonus_listening_worker_q1.INFO Processed Scientific Name: STERNA HIRUNDO
+2024-05-24 18:23:34,482.bonus_listening_worker_q1.INFO Processed Scientific Name: STERNA HIRUNDO
+2024-05-24 18:23:35,504.bonus_listening_worker_q1.INFO Processed Scientific Name: CHROICOCEPHALUS RIDIBUNDUS
+2024-05-24 18:23:36,530.bonus_listening_worker_q1.INFO Processed Scientific Name: ERITHACUS RUBECULA
+2024-05-24 18:23:37,551.bonus_listening_worker_q1.INFO Processed Scientific Name: REGULUS REGULUS
+2024-05-24 18:23:38,572.bonus_listening_worker_q1.INFO Processed Scientific Name: PHASIANUS COLCHICUS
+2024-05-24 18:23:39,596.bonus_listening_worker_q1.INFO Processed Scientific Name: STREPTOPELIA DECAOCTO
+2024-05-24 18:23:40,618.bonus_listening_worker_q1.INFO Processed Scientific Name: CORVUS MONEDULA
+2024-05-24 18:23:41,640.bonus_listening_worker_q1.INFO Processed Scientific Name: MUSCICAPA STRIATA
+2024-05-24 18:23:42,662.bonus_listening_worker_q1.INFO Processed Scientific Name: TROGLODYTES TROGLODYTES
+2024-05-24 18:23:43,685.bonus_listening_worker_q1.INFO Processed Scientific Name: TROGLODYTES TROGLODYTES
+2024-05-24 18:23:44,722.bonus_listening_worker_q1.INFO Processed Scientific Name: MUSCICAPA STRIATA
+2024-05-24 18:23:45,745.bonus_listening_worker_q1.INFO Processed Scientific Name: PHASIANUS COLCHICUS
+2024-05-24 18:23:46,767.bonus_listening_worker_q1.INFO Processed Scientific Name: FRINGILLA COELEBS
+2024-05-24 18:23:47,789.bonus_listening_worker_q1.INFO Processed Scientific Name: FRINGILLA COELEBS
+2024-05-24 18:23:48,811.bonus_listening_worker_q1.INFO Processed Scientific Name: COLUMBA PALUMBUS
+2024-05-24 18:23:58,832.bonus_listening_worker_q1.INFO User interrupted continuous listening process.
+2024-05-24 18:23:58,832.bonus_listening_worker_q1.INFO Closing connection. Goodbye.
